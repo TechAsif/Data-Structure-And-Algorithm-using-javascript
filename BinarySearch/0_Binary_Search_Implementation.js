@@ -20,4 +20,4 @@ function binarySearch(arr, target){
 
 console.log(binarySearch([1,2,3,4,5,6,7,8,9,10], 10))
 
-/* Time Complexity is O(logN) */
+/* Time Complexity is O(logN) Auxiliary Space: O(1) */
