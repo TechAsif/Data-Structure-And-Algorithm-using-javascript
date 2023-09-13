@@ -1,0 +1,31 @@
+Binary search is a powerful algorithmic technique that is used to efficiently search for a specific value within a sorted data structure. It's not limited to a single type of problem but can be applied to a variety of problem patterns. Here are some common problem patterns that can be solved using binary search:
+
+*
+Below Information is Collected From ChatGPT:
+1.Searching for a Value: The most common use of binary search is to find a specific element in a sorted array or list. Given a sorted input, you can efficiently locate a target value using binary search.
+
+2.Finding the Smallest or Largest Value: Binary search can also be used to find the smallest or largest value in a sorted array, which can be useful in certain scenarios.
+
+3.Counting Occurrences: You can use binary search to count the number of occurrences of a specific value in a sorted array.
+
+4.Finding Closest Values: Binary search can be used to find the closest value to a target value in a sorted array. This is helpful in scenarios like finding the closest element in a list or determining which element in a sorted list is the closest to a given value.
+
+5.Checking for Existence: You can use binary search to determine whether a specific value exists in a sorted array or not.
+
+6.Range Queries: Binary search can help find a range of values in a sorted array, such as finding the range of elements that fall within a certain range or satisfy a particular condition.
+
+7.Peak Finding: Binary search can be applied to find a peak element in an array. A peak element is an element that is greater than or equal to its neighbors.
+
+8.Rotation Problems: In rotated sorted arrays, you can use binary search to find a target element efficiently. These problems often involve finding an element in a sorted array that has been rotated.
+
+9.Decision Problems: Binary search can be used to solve decision problems where you need to determine if a specific condition is satisfied within a sorted data structure.
+
+10.Median Finding: You can find the median of a sorted array or a stream of elements using binary search. This involves partitioning the array into two halves and finding the median element.
+
+11.Square Root Approximation: Binary search can be employed to approximate the square root of a number to a certain precision.
+
+12.Order Statistics: Binary search can help find the kth smallest or largest element in a sorted array or data structure.
+
+13.Optimization Problems: Some optimization problems can be solved using binary search to find the optimal solution within a certain range.
+
+These are some common problem patterns where binary search can be applied effectively. Keep in mind that understanding the problem statement and the properties of the data structure you're working with is crucial in determining whether binary search is a suitable approach. Additionally, binary search has its own set of requirements and constraints, such as the input data being sorted, so be sure to consider these factors when choosing your algorithm.
